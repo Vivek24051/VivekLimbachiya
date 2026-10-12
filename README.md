@@ -1,68 +1,149 @@
 
-Update my GitHub profile README in the repository Vivek24051/VivekLimbachiya.
+<div align="center">
 
-Goal:
-Create a polished, recruiter-friendly GitHub profile showcasing my real projects, professional experience, technical skills, and backend/full-stack strengths.
+# Hi, I'm Vivek Limbachiya 👋
 
-Before editing:
-1. Inspect the current README.md.
-2. Use the existing README and the project details I provide below.
-3. Do not invent project features, performance metrics, user counts, stars, or contributions.
-4. Preserve my accurate experience: 3+ years of full-stack/MERN development.
-5. Do not make changes to other repositories.
+### Full-Stack Developer | Backend Engineering | React | Next.js | Node.js | TypeScript
 
-Projects to feature:
+Building web applications with a focus on reliable backends, clean APIs, and practical user experiences.
 
-PUBLIC GITHUB PROJECTS
-- AI Real Estate Portfolio Analyst:
-  https://github.com/Vivek24051/ai-portfolio-analyst
-  Live demo: https://ai-portfolio-analyst-two.vercel.app
-  AI-powered property portfolio analysis, tool calling, deterministic calculations, proposed updates with explicit confirmation, audit/operations dashboard. Stack includes Next.js, TypeScript, LangGraph, Gemini, Prisma.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-limbachiya-a33a26242/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vivek-portfolio-alpha.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/Vivek24051)
 
-- DocSign:
-  https://github.com/Vivek24051/docsign
-  Document signing and management, PDF workflows, authentication, public verification, and AI-powered features. Next.js, TypeScript, Node.js, MongoDB.
+</div>
 
-- Strapi + Next.js Page Builder:
-  https://github.com/Vivek24051/strapi-nextjs-pagebuilder
-  CMS-driven page builder and reusable frontend components.
+---
 
-- Personal Portfolio:
-  https://github.com/Vivek24051/vivek-portfolio
-  Live: https://vivek-portfolio-alpha.vercel.app/
+## 👨‍💻 About Me
 
-- Heal-Web:
-  https://github.com/Vivek24051/Heal-Web
-  Responsive medical website.
+I'm a Full-Stack Developer with **3+ years of experience** building and maintaining web applications using the MERN stack and modern JavaScript technologies.
 
-- WorkWithUs:
-  https://github.com/Vivek24051/WorkWithUs.github.io
-  Include only a description supported by the repository.
+- 🔧 Strong interest in backend development, REST APIs, authentication, and database design.
+- ⚛️ Experienced with React, Next.js, Node.js, TypeScript, and MongoDB.
+- ☁️ Familiar with cloud deployment, server configuration, and production application workflows.
+- 🤖 Exploring AI-powered applications and LLM integrations.
 
-PRIVATE PROJECT
-- PREP Framework Access Portal:
-  https://github.com/Vivek24051/PREP_Framework_Access_Portal
-  This repository is private. Do not claim its source is publicly accessible. Mention it only as a private project if appropriate, and avoid revealing confidential implementation details.
+---
 
-PROFESSIONAL PROJECTS
-I have also contributed professionally to applications such as Storibble and the Aasha employer portal. Do not imply their source code is public or that I own the products. Add a concise professional-projects section only if it can be described accurately and without disclosing confidential information.
+## 🚀 Featured Projects
 
-README requirements:
-- Strong opening headline: Full-Stack Developer | Backend Engineering | React | Next.js | Node.js | TypeScript.
-- Concise professional introduction.
-- Featured projects first, with useful descriptions, technology stack, and working links.
-- Separate public GitHub projects from private/client/employer projects.
-- Skills grouped into frontend, backend, databases, cloud/DevOps, and integrations.
-- Include my LinkedIn:
-  https://www.linkedin.com/in/vivek-limbachiya-a33a26242/
-- Include my portfolio:
-  https://vivek-portfolio-alpha.vercel.app/
-- Use clean GitHub Markdown, readable headings, and compact tables or project cards.
-- Avoid excessive badges, fake metrics, visitor counters, and unnecessary animations.
-- Do not call me a tech lead or claim I built entire products independently unless supported.
-- Keep the README concise enough for recruiters to scan in under a minute.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-After editing:
-1. Show me the README diff.
-2. Check every link and project description for accuracy.
-3. Do not commit or push changes.
+### 🤖 AI Portfolio Analyst
+
+AI-assisted real estate portfolio analysis with tool calling, deterministic calculations, and a workflow for proposing updates before confirmation.
+
+**Tech:** Next.js · TypeScript · LangGraph · Gemini · Prisma
+
+[📂 Source Code](https://github.com/Vivek24051/ai-portfolio-analyst) · [🌐 Live Demo](https://ai-portfolio-analyst-two.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 DocSign
+
+A document management and signing application focused on document workflows, PDF handling, authentication, and verification.
+
+**Tech:** Next.js · TypeScript · Node.js · MongoDB
+
+[📂 Source Code](https://github.com/Vivek24051/docsign)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Strapi + Next.js Page Builder
+
+A CMS-driven page-building project connecting Strapi content management with reusable Next.js frontend components.
+
+**Tech:** Strapi · Next.js · TypeScript
+
+[📂 Source Code](https://github.com/Vivek24051/strapi-nextjs-pagebuilder)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Personal Portfolio
+
+My personal portfolio website showcasing my development profile, skills, and projects.
+
+**Tech:** JavaScript · Web Development
+
+[📂 Source Code](https://github.com/Vivek24051/vivek-portfolio) · [🌐 Live Website](https://vivek-portfolio-alpha.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Heal-Web
+
+A responsive medical website project with a healthcare-focused interface.
+
+**Tech:** JavaScript · Web Development
+
+[📂 Source Code](https://github.com/Vivek24051/Heal-Web)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 WorkWithUs
+
+A web project hosted through GitHub Pages. Explore the repository for its implementation and details.
+
+**Tech:** EJS · Web Development
+
+[📂 Source Code](https://github.com/Vivek24051/WorkWithUs.github.io)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Frontend** | JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, Authentication, JWT |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Prisma |
+| **Cloud & DevOps** | AWS EC2, AWS Lightsail, Docker, Nginx, PM2, Cloudflare |
+| **Integrations** | Razorpay, Firebase Cloud Messaging, Cloudinary, Gemini API |
+
+---
+
+## 💼 Professional Experience
+
+Contributed to production applications across full-stack development, backend APIs, integrations, and deployment workflows.
+
+- **Storibble** — Backend development, API integrations, notifications, and deployment-related work.
+- **Aasha Employer Portal** — Full-stack application development involving dashboards, jobs, candidates, and integrations.
+
+*These are professional projects; their source code is not represented as publicly available here.*
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek24051&show_icons=true&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek24051&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+**[LinkedIn](https://www.linkedin.com/in/vivek-limbachiya-a33a26242/)** · **[Portfolio](https://vivek-portfolio-alpha.vercel.app/)** · **[GitHub](https://github.com/Vivek24051)**
+
+</div>
