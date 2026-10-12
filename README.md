@@ -1,83 +1,68 @@
-# Hi, I'm Vivek 👋
 
-### Full-Stack Developer | React.js | Next.js | Node.js | TypeScript
+Update my GitHub profile README in the repository Vivek24051/VivekLimbachiya.
 
-I'm a Full-Stack Developer with 3+ years of experience shipping production web applications end-to-end — from architecture and API design to deployment and performance tuning. I enjoy working across the entire stack: designing REST APIs and database schemas, building responsive UIs, integrating third-party services, and deploying applications to the cloud.
+Goal:
+Create a polished, recruiter-friendly GitHub profile showcasing my real projects, professional experience, technical skills, and backend/full-stack strengths.
 
-I started as a Software Development Intern and was promoted to Full-Stack Developer within 3 months — driven by ownership and delivery quality. Since then I've owned end-to-end delivery on multiple client projects, taking systems from architecture decisions through to production, with a track record of measurable performance improvements along the way.
+Before editing:
+1. Inspect the current README.md.
+2. Use the existing README and the project details I provide below.
+3. Do not invent project features, performance metrics, user counts, stars, or contributions.
+4. Preserve my accurate experience: 3+ years of full-stack/MERN development.
+5. Do not make changes to other repositories.
 
----
+Projects to feature:
 
-### 🛠 Tech Stack
+PUBLIC GITHUB PROJECTS
+- AI Real Estate Portfolio Analyst:
+  https://github.com/Vivek24051/ai-portfolio-analyst
+  Live demo: https://ai-portfolio-analyst-two.vercel.app
+  AI-powered property portfolio analysis, tool calling, deterministic calculations, proposed updates with explicit confirmation, audit/operations dashboard. Stack includes Next.js, TypeScript, LangGraph, Gemini, Prisma.
 
-**Frontend**
+- DocSign:
+  https://github.com/Vivek24051/docsign
+  Document signing and management, PDF workflows, authentication, public verification, and AI-powered features. Next.js, TypeScript, Node.js, MongoDB.
 
-React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS · Material UI
+- Strapi + Next.js Page Builder:
+  https://github.com/Vivek24051/strapi-nextjs-pagebuilder
+  CMS-driven page builder and reusable frontend components.
 
-**Backend**
+- Personal Portfolio:
+  https://github.com/Vivek24051/vivek-portfolio
+  Live: https://vivek-portfolio-alpha.vercel.app/
 
-Node.js · Express.js · REST APIs · JWT · RBAC · Redis · Strapi · Medusa
+- Heal-Web:
+  https://github.com/Vivek24051/Heal-Web
+  Responsive medical website.
 
-**Databases**
+- WorkWithUs:
+  https://github.com/Vivek24051/WorkWithUs.github.io
+  Include only a description supported by the repository.
 
-MongoDB · PostgreSQL · MySQL
+PRIVATE PROJECT
+- PREP Framework Access Portal:
+  https://github.com/Vivek24051/PREP_Framework_Access_Portal
+  This repository is private. Do not claim its source is publicly accessible. Mention it only as a private project if appropriate, and avoid revealing confidential implementation details.
 
-**Cloud & DevOps**
+PROFESSIONAL PROJECTS
+I have also contributed professionally to applications such as Storibble and the Aasha employer portal. Do not imply their source code is public or that I own the products. Add a concise professional-projects section only if it can be described accurately and without disclosing confidential information.
 
-AWS EC2 · AWS Lightsail · GCP Cloud Functions · Docker · GitLab CI/CD · PM2 · Nginx · Cloudflare Workers
+README requirements:
+- Strong opening headline: Full-Stack Developer | Backend Engineering | React | Next.js | Node.js | TypeScript.
+- Concise professional introduction.
+- Featured projects first, with useful descriptions, technology stack, and working links.
+- Separate public GitHub projects from private/client/employer projects.
+- Skills grouped into frontend, backend, databases, cloud/DevOps, and integrations.
+- Include my LinkedIn:
+  https://www.linkedin.com/in/vivek-limbachiya-a33a26242/
+- Include my portfolio:
+  https://vivek-portfolio-alpha.vercel.app/
+- Use clean GitHub Markdown, readable headings, and compact tables or project cards.
+- Avoid excessive badges, fake metrics, visitor counters, and unnecessary animations.
+- Do not call me a tech lead or claim I built entire products independently unless supported.
+- Keep the README concise enough for recruiters to scan in under a minute.
 
-**Tools & Services**
-
-Git · Postman · Firebase FCM · Cloudinary · Prometheus · Meilisearch
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [DocSign](https://github.com/Vivek24051/docsign) | Full-stack digital document signing and management platform with PDF workflows, authentication, public verification, and AI-powered features | Next.js · TypeScript · Node.js · MongoDB |
-| [Strapi + Next.js Page Builder](https://github.com/Vivek24051/strapi-nextjs-pagebuilder) | CMS-driven page builder using reusable components and dynamic content architecture | Next.js · TypeScript · Strapi |
-| [Vivek Portfolio](https://github.com/Vivek24051/vivek-portfolio) | Personal developer portfolio showcasing projects, experience, and technical skills | JavaScript |
-| [Heal-Web](https://github.com/Vivek24051/Heal-Web) | Responsive medical website | JavaScript |
-
----
-
-### 💡 What I Work On
-
-- Full-stack web applications
-- REST API architecture and backend development
-- Backend architecture & system design
-- Authentication and authorization
-- Role-Based Access Control (RBAC)
-- Database design and optimization
-- Admin dashboards and internal platforms
-- Cloud deployments and CI/CD
-- CMS integrations
-- Caching and performance optimization
-- Third-party API and service integrations
-
----
-
-### 📈 Engineering Focus
-
-Currently deepening my knowledge in:
-
-- System Design
-- Scalable Backend Architecture
-- Node.js Internals
-- Database Optimization
-- Redis and Caching Strategies
-- AWS & Cloud Infrastructure
-- Docker and CI/CD
-- API Security and Performance
-
----
-
-### 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/vivek-limbachiya-a33a26242/) · [Portfolio](https://vivek-portfolio-alpha.vercel.app/)
-
----
-
-⭐ Feel free to explore my repositories and projects.
+After editing:
+1. Show me the README diff.
+2. Check every link and project description for accuracy.
+3. Do not commit or push changes.
